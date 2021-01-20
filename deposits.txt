@@ -1,0 +1,8 @@
+store as: userID, accountID, amount, cash/cheque
+1, 1, $26.6958, cash
+1, 1, $26.6164, cash
+1, 4, $26.690800000000003, cash
+1, 4, $26.6934, cash
+1, 4, $26.697000000000003, cash
+1, 1, $26.6968, cash
+1, 1, $26.667, cash
